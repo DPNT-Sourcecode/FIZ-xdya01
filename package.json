@@ -12,14 +12,15 @@
     "url": "git+https://github.com/julianghionoiu/tdl-warmup.git"
   },
   "dependencies": {
-    "properties-reader": "0.0.15",
-    "tdl-client-nodejs": "0.26.3"
+    "properties-reader": "^2.2.0",
+    "tdl-client-nodejs": "0.26.3",
+    "tdl-warmup": "^0.0.1"
   },
   "devDependencies": {
-    "nyc": "14.1.1",
-    "prettier": "^1.11.1",
     "diveSync": "0.3.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.0.0",
+    "nyc": "14.1.1",
+    "prettier": "^1.11.1"
   },
   "engines": {
     "node": ">=5.6.0",
