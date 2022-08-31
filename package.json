@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "properties-reader": "^2.2.0",
+    "tdl-client": "^0.22.1",
     "tdl-client-nodejs": "0.26.3",
     "tdl-warmup": "^0.0.1"
   },
